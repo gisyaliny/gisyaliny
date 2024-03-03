@@ -3,7 +3,7 @@
 
 + I am a Ph.D. Candidate in the Department of Geospatial Information Sciences at the University of Texas at Dallas (德州大学达拉斯分校). My research interests include Geographic Information Science (GIS), Urban Environment, and Human Networks Modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g. AWS) to study the interaction among built environments and social events, semantic segmentation of urban, navigation with map matching, etc. I am also passionate about developing helpful applications for local societies.
 
-+ 💡 More information can be found on my [Personal Website](https://gisyaliny.github.io/) | [Resume](https://drive.google.com/file/d/1kBpkzop2oIpSJ4uQrgDGRznApmw__EDJ/view?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=wdkZhlwAAAAJ) and [Portfolio](https://gisyaliny.github.io/projects/)
++ 💡 More information can be found on my [Personal Website](https://gisyaliny.github.io/) | [Resume](https://drive.google.com/file/d/1kBpkzop2oIpSJ4uQrgDGRznApmw__EDJ/view?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=wdkZhlwAAAAJ) and <a href = "https://gisyaliny.github.io/projects/" target = "_blank">Portfolio </a>
 
 ---
 
