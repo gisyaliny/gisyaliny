@@ -15,4 +15,4 @@
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
 - Email: [yxy180050@utdallas.edu](mailto:yxy180050@utdallas.edu)<br />
-- Linkedin: [in/gisyaliny](www.linkedin.com/in/gisyaliny)<br />
+- Linkedin: [in/gisyaliny](https://www.linkedin.com/in/gisyaliny/) <br />
